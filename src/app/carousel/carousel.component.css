@@ -1,0 +1,73 @@
+.image1{
+    height: 444px;
+    width: 115%;
+    display: flex;
+    margin-left: 11%;
+}
+
+.divi{
+    display: flex;
+}
+
+/* .divi1{
+    display: flex;
+    
+} */
+
+.image{
+    width: 50%; 
+}
+
+.content1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 16%;
+    padding: 16px;
+
+}
+.officeimage{
+    height: 410px;
+    width: 100%;
+    display: flex;
+    margin-top: 18px;
+    margin-left: 15%;
+}
+.officeimage1{
+    height: 410px;
+    width: 85%;
+    display: flex;
+    margin-top: 18px;
+    margin-left: 15%;
+}
+
+.carousel{
+    margin-top: 40px ;
+}
+.image3{
+    margin-left: 5%;
+    width:35% ;
+    height: 10%;
+    
+}
+
+.image4{
+    margin-left: 5%;
+    width:40% ;
+    height: 10%;    
+}
+.image5{
+    margin-left: 5%;
+    width:85% ;
+    height: 82% ;    
+}
+
+.officeimage2{
+    height: 300px;
+    width: 120%;
+    margin-top: 10%;
+    margin-left: 1%;
+}
+.image2{
+    width: 54%;
+}

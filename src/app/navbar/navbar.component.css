@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #456B90 !important;
+}
+.nav-link {
+    color: white;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+h4{
+    color: white;
+    padding-top: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+span{
+    margin-left: 36%;
+}
+.logo{
+    border-radius: 32px;
+    
+}
